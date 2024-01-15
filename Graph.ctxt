@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Graph
+comment1.params=
+comment1.target=Graph()
+comment2.params=
+comment2.target=void\ init()
+comment3.params=c
+comment3.target=int\ findIndex(char)
+comment4.params=k
+comment4.target=char\ findChar(int)
+comment5.params=k\ arr
+comment5.target=boolean\ istbesucht(char,\ char[])
+comment6.params=s
+comment6.target=void\ startbreitensuche(char)
+comment7.params=besucht\ pos
+comment7.target=char[]\ breitensuche(char[],\ int)
+comment8.params=c
+comment8.target=void\ starttiefensuche(char)
+comment9.params=besucht\ pos
+comment9.target=char[]\ tiefensuche(char[],\ int)
+numComments=10
